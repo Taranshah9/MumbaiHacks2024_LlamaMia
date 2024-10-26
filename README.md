@@ -164,5 +164,4 @@ For support, please:
 - [ ] Mobile app development
 - [ ] Drone integration
 - [ ] Blockchain integration for supply chain
-- [ ] Multilingual support
 - [ ] Advanced soil analysis
