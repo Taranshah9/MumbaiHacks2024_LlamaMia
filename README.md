@@ -4,6 +4,7 @@ An innovative AI-powered solution addressing critical challenges in modern agric
 
 [![Watch the Demo](https://img.shields.io/badge/Watch-Demo-red)](https://youtu.be/6DbD4OcNRsc)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+[![Devfolio](https://img.shields.io/badge/Devfolio-Overview-blue)](https://devfolio.co/projects/agrismart-0794)
 
 ## 🎯 Problem Statement
 
